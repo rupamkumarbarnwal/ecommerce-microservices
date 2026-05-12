@@ -6,9 +6,11 @@
 
 # Maven build output
 target/
+*/target/
 
 # Help file
 HELP.md
+*/HELP.md
 
 # OS files
 .DS_Store
